@@ -1,0 +1,51 @@
+body {    background-image: url(immagini/background.jpg);
+          background-size: cover;
+          font-family: 'Explora', cursive;}
+
+.contenitore {
+             margin-top: 30px;
+             margin-left: 250px;
+             margin-bottom: 150px;
+             background-color:rgba(13, 13, 13, 0.5);
+             border-radius: 10px 10px 10px 10px;
+             -webkit-border-radius: 10px 10px 10px 10px;
+             -moz-border-radius: 10px 10px 10px 10px;
+             -ms-border-radius: 10px 10px 10px 10px;
+             -o-border-radius: 10px 10px 10px 10px;
+             max-width: 800px;
+             max-height: 25cm;
+             box-sizing: border-box;
+             padding-left: 2cm;
+             padding-right: 2cm;
+             padding-bottom: 2cm;}
+
+header {text-align: center;}   
+
+header > img {width: 5cm; height: 2,5cm; margin-top: 2cm; margin-bottom: 0px;}
+ {font-size: 100px;}
+
+header > h2 {color: rgb(19, 250, 3);
+            margin-bottom: 3px; margin-top: 0px;}
+
+header > div {background-color: rgb(19, 250, 3); 
+            padding: 7px; margin-top: 0px;}
+
+img {margin-top: 50px; width: 200px; height: 100px;}
+
+main > div > h3 {display: inline;}
+main > div {margin-top: 20px;}
+.riga1 { margin-top: 0px; padding-top: 0px; color: sandybrown; 
+        background-color: sandybrown; width: 7cm;
+        border-radius: 3px 3px 3px 3px; -webkit-border-radius: 3px 3px 3px 3px; -moz-border-radius: 3px 3px 3px 3px; -ms-border-radius: 3px 3px 3px 3px; -o-border-radius: 3px 3px 3px 3px; }
+
+.riga2 { margin-top: 0px; padding-top: 0px; color:rgb(19, 250, 3); 
+        background-color: rgb(19, 250, 3); width: 10cm;
+        border-radius: 3px 3px 3px 3px; -webkit-border-radius: 3px 3px 3px 3px; -moz-border-radius: 3px 3px 3px 3px; -ms-border-radius: 3px 3px 3px 3px; -o-border-radius: 3px 3px 3px 3px; }
+
+.riga3 { margin-top: 0px; padding-top: 0px; color:rgb(240, 16, 68); 
+        background-color: rgb(240, 16, 68); width: 4cm;
+        border-radius: 3px 3px 3px 3px; -webkit-border-radius: 3px 3px 3px 3px; -moz-border-radius: 3px 3px 3px 3px; -ms-border-radius: 3px 3px 3px 3px; -o-border-radius: 3px 3px 3px 3px; }
+          
+main {color: white;}
+
+main > div > p {font-size: 12px; margin-bottom: 0px; margin-top: 0px;}
